@@ -50,7 +50,7 @@ console.log(percentageScore(cAnswer,cResponse).toFixed(2))
 
 
 
-// 1. In the given explaination, toatal of Correct Answer is 16, which is incorrect. Correct count should be 18.
+// 1. In the given explaination, toatal of Correct Answer is 16, which is incorrect. Correct count should be 18. Here count of "calendar" should be +3 instead of +1.
 
-// 2. In the given explaination, toatal of Candidate Response is 6, which is incorrect. Correct count should be 10.
+// 2. In the given explaination, toatal of Candidate Response is 6, which is incorrect. Correct count should be 10. Here count of "14" should be +4 instead of +1.
 
